@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\BLL.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\BLL.pdb
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\DAL.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\DAL.pdb
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\DAL.dll.config
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\obj\Debug\BLL.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\BLL\obj\Debug\BLL.pdb
