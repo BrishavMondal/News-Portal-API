@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\DAL.dll.config
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\DAL.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\DAL.pdb
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.dll
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.pdb
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.Migrations.intDB.resources
+C:\Users\ACER\source\repos\Demo\News Aggregator API\NewsAggregator\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
